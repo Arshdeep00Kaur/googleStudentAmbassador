@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain-qdrant
+langchain-core
+langchain-text-splitters
+google-generativeai
+python-dotenv
+pypdf
+qdrant-client
